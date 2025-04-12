@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "lintang": -7.8421,
+        "bujur": 110.3467
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lintang": -7.94877,
+        "bujur": 110.2963
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lintang": -8.0237,
+        "bujur": 110.3261
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lintang": -8.00242,
+        "bujur": 110.28463
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lintang": -8.00161,
+        "bujur": 110.28415
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lintang": -8.0024,
+        "bujur": 110.2841
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lintang": -8.0024,
+        "bujur": 110.284
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lintang": -8.0025,
+        "bujur": 110.284
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lintang": -8.0025,
+        "bujur": 110.2839
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lintang": -8.0028,
+        "bujur": 110.2833
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lintang": -8.0032,
+        "bujur": 110.2829
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lintang": -8.0034,
+        "bujur": 110.28246
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lintang": -8.00356,
+        "bujur": 110.28216
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lintang": -8.0035,
+        "bujur": 110.2812
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lintang": -7.98755,
+        "bujur": 110.31019
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lintang": -7.9021,
+        "bujur": 110.3527
+      },
+      "geometry": null
+    }
+  ]
+}
