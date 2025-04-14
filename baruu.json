@@ -1,0 +1,650 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.8421,
+        "longitude": 110.3467
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3467,
+          -7.8421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.94877,
+        "longitude": 110.2963
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.2963,
+          -7.94877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -8.0237,
+        "longitude": 110.3261,
+        "Lokasi": "Pantai Parangtritis",
+        "Jelajah saya": "https://raw.githubusercontent.com/hereitsna/webgis/refs/heads/main/aee945d4-6de4-4bb4-973e-f478f72d1f88.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3261,
+          -8.0237
+        ]
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -8.00242,
+        "longitude": 110.28463
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.28463,
+          -8.00242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -8.00161,
+        "longitude": 110.28415
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.28415,
+          -8.00161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -8.0024,
+        "longitude": 110.2841
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.2841,
+          -8.0024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -8.0024,
+        "longitude": 110.284
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.284,
+          -8.0024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -8.0025,
+        "longitude": 110.284
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.284,
+          -8.0025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -8.0025,
+        "longitude": 110.2839
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.2839,
+          -8.0025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -8.0028,
+        "longitude": 110.2833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.2833,
+          -8.0028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -8.0032,
+        "longitude": 110.2829,
+        "Lokasi": "Kano Maritim Baros",
+        "Tanggal": "9 Februari 2025",
+        "Jelajah Saya": "https://raw.githubusercontent.com/hereitsna/webgis/refs/heads/main/image1.HEIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.2829,
+          -8.0032
+        ]
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -8.0034,
+        "longitude": 110.28246,
+        "Lokasi": "Kano Maritim Baros",
+        "Tanggal": "9 Februari 2025",
+        "Jelajah saya": "https://raw.githubusercontent.com/hereitsna/sigweb/refs/heads/main/FullSizeRender.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.28246,
+          -8.0034
+        ]
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -8.00356,
+        "longitude": 110.28216,
+        "Lokasi": "Kano Maritim Baros",
+        "tanggal ": "9 Februari 2025",
+        "Jelajah Saya": "https://raw.githubusercontent.com/hereitsna/webgis/refs/heads/main/FullSizeRender.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.28216,
+          -8.00356
+        ]
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.98755,
+        "longitude": 110.31019
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.31019,
+          -7.98755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.9021,
+        "longitude": 110.3527
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3527,
+          -7.9021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.78042,
+        "longitude": 110.37862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37862,
+          -7.78042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.77625,
+        "longitude": 110.3748
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3748,
+          -7.77625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.77589,
+        "longitude": 110.37441
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37441,
+          -7.77589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.77499,
+        "longitude": 110.37467
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37467,
+          -7.77499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.77486,
+        "longitude": 110.37438
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37438,
+          -7.77486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.77393,
+        "longitude": 110.37501
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37501,
+          -7.77393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.77432,
+        "longitude": 110.37453
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37453,
+          -7.77432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.77477,
+        "longitude": 110.37424
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37424,
+          -7.77477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.7749,
+        "longitude": 110.37376
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37376,
+          -7.7749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.77476,
+        "longitude": 110.37335
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37335,
+          -7.77476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.77406,
+        "longitude": 110.37342
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37342,
+          -7.77406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.77338,
+        "longitude": 110.37367
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37367,
+          -7.77338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.7724,
+        "longitude": 110.373
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.373,
+          -7.7724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.77205,
+        "longitude": 110.37316
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37316,
+          -7.77205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.77429,
+        "longitude": 110.37923
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37923,
+          -7.77429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.77138,
+        "longitude": 110.37788
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37788,
+          -7.77138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.77126,
+        "longitude": 110.37715
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37715,
+          -7.77126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.77206,
+        "longitude": 110.38236
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38236,
+          -7.77206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.77178,
+        "longitude": 110.38267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38267,
+          -7.77178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.7717,
+        "longitude": 110.3824
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3824,
+          -7.7717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.77116,
+        "longitude": 110.38287
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38287,
+          -7.77116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.77113,
+        "longitude": 110.38271
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38271,
+          -7.77113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.61163,
+        "longitude": 110.6331
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6331,
+          -7.61163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.6118,
+        "longitude": 110.63293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.63293,
+          -7.6118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.61187,
+        "longitude": 110.63293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.63293,
+          -7.61187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.61199,
+        "longitude": 110.6329
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6329,
+          -7.61199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.61212,
+        "longitude": 110.63289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.63289,
+          -7.61212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.61248,
+        "longitude": 110.63282
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.63282,
+          -7.61248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.61256,
+        "longitude": 110.63274
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.63274,
+          -7.61256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -7.61267,
+        "longitude": 110.63278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.63278,
+          -7.61267
+        ]
+      }
+    }
+  ]
+}
